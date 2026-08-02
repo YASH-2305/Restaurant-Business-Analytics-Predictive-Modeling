@@ -1,0 +1,601 @@
+Restaurant_ID,Restaurant_Name,Location,Category,Primary_Cuisine,Estimated_Cost_for_Two_INR,Estimated_Rating,Specialty
+1,Masque,Mahalaxmi,Fine Dining,Modern Indian,8000,4.8,Tasting Menus
+2,Indian Accent,BKC,Fine Dining,Modern Indian,7500,4.9,Inventive Indian Dishes
+3,Wasabi by Morimoto,Colaba,Fine Dining,Japanese,9000,4.7,Sushi & Japanese Grills
+4,Tresind,BKC,Fine Dining,Modern Indian,6000,4.6,Theatrical Presentations
+5,The Table,Colaba,Fine Dining,"Global, European",5500,4.5,"Farm-to-Table, Small Plates"
+6,Hakkasan,Bandra,Fine Dining,Cantonese,6500,4.5,"Modern Cantonese, Cocktails"
+7,Yauatcha,BKC,Fine Dining,Cantonese,5000,4.6,Dim Sum
+8,Gaa,Bandra,Fine Dining,Modern Indian,7000,4.7,Innovative Tasting Menus
+9,Jia Jia,Colaba,Fine Dining,Chinese,4500,4.4,Authentic Chinese
+10,San-Qi,Worli,Fine Dining,Pan-Asian,6000,4.5,Multi-Cuisine Asian
+11,Britannia & Co.,Ballard Estate,Iconic Cafe,Parsi,1500,4.5,"Berry Pulao, Sali Boti"
+12,Leopold Cafe & Bar,Colaba,Iconic Cafe,Multi-Cuisine,2000,4.1,"Lively Ambience, Beer"
+13,Trishna,Fort,Iconic Seafood,Seafood,3500,4.6,Butter Garlic Crab
+14,Mahesh Lunch Home,Fort,Iconic Seafood,Seafood,3000,4.5,Mangalorean Seafood
+15,Gajalee,Vile Parle,Iconic Seafood,Seafood,2800,4.6,"Bombil Fry, Tandoori Crab"
+16,Kyani & Co.,Marine Lines,Iconic Cafe,Irani,500,4.2,"Bun Maska, Mawa Cake"
+17,Shree Thaker Bhojanalay,Kalbadevi,Traditional,Gujarati,1200,4.7,Authentic Gujarati Thali
+18,Bademiya,Colaba,Legendary Street Food,North Indian,1000,4.2,Kebabs & Rolls
+19,Cafe Mondegar,Colaba,Iconic Cafe,Multi-Cuisine,1800,4.3,"Jukebox, Mario Miranda Murals"
+20,Gaylord,Churchgate,Classic Dining,"Indian, Continental",2500,4.2,"Old-World Charm, Bakery"
+21,The Bombay Canteen,Lower Parel,Modern Indian,Indian,3000,4.6,Reimagined Indian Classics
+22,O Pedro,BKC,Modern Regional,Goan,3200,4.7,"Modern Goan Food, Cocktails"
+23,Burma Burma,Fort,Specialty Cuisine,Burmese,2200,4.8,Khow Suey (Vegetarian)
+24,Peshawari,Andheri,Fine Dining,North-West Frontier,5500,4.7,"Dal Bukhara, Kebabs"
+25,Dum Pukht,Andheri,Fine Dining,Awadhi,6000,4.6,"Royal Awadhi Cuisine, Biryani"
+26,Dakshin Coastal,Andheri,Fine Dining,South Indian,4500,4.5,Coastal South Indian Dishes
+27,Soam,Babulnath,Traditional,Gujarati,1100,4.5,Gujarati & Rajasthani (Veg)
+28,Diva Maharashtracha,Mahim,Regional Specialty,Maharashtrian,1800,4.4,Authentic Maharashtrian Food
+29,Oh! Calcutta,Khar,Regional Specialty,Bengali,2400,4.3,Authentic Bengali Cuisine
+30,Jamavar,Andheri,Fine Dining,Indian,5000,4.4,Pan-Indian Royal Cuisine
+31,Salt Water Cafe,Bandra,Chic Bistro,European,2500,4.4,"All-Day Breakfast, Burgers"
+32,Indigo Delicatessen,Colaba,Casual Dining,European,2800,4.3,"Deli Sandwiches, Pasta"
+33,Smoke House Deli,Bandra,Casual Dining,European,2600,4.2,"Smoked Meats, Pastas"
+34,The Pantry,Fort,Quaint Cafe,"Healthy, Organic",1400,4.3,Healthy Cafe Fare
+35,Kala Ghoda Cafe,Kala Ghoda,Artistic Cafe,Organic Cafe,1200,4.2,"Organic Coffee, Waffles"
+36,Suzette,Nariman Point,French Creperie,French,1800,4.4,Authentic French Crepes
+37,The Nutcracker,Fort,Cozy Cafe,Comfort Food,1500,4.5,"Akuri, Pancakes, Burgers"
+38,Candies,Bandra,Iconic Cafe,Multi-Cuisine,800,4.3,"Sandwiches, Puffs, Salads"
+39,Pizza By The Bay,Marine Drive,Casual Dining,Italian,2200,4.1,Pizzas with a View
+40,Olive Bar & Kitchen,Khar,Romantic,Mediterranean,4000,4.3,"Romantic Ambience, Pizzas"
+41,Izumi,Bandra,Authentic Japanese,Japanese,3000,4.8,"Ramen, Sushi"
+42,Pa Pa Ya,Lower Parel,Modern Asian,Pan-Asian,2800,4.4,"Sushi Matrix, Modern Asian"
+43,Foo,Andheri,Trendy,Pan-Asian,2500,4.5,"Asian Tapas, Sushi"
+44,KOKO,Lower Parel,Chic Bar,Cantonese,3500,4.5,"Cocktails, Modern Cantonese"
+45,Royal China,Fort,Classic Chinese,Chinese,3000,4.3,"Authentic Cantonese, Dim Sum"
+46,Shizusan Shophouse,Lower Parel,Casual Dining,Pan-Asian,2200,4.2,"Sushi, Baos, Curries"
+47,Mamagoto,Bandra,Fun & Quirky,Pan-Asian,2000,4.2,Asian Street Food Fusion
+48,By the Mekong,Lower Parel,Fine Dining,Pan-Asian,5500,4.5,"High-Floor Views, Curries"
+49,Ling's Pavilion,Colaba,Legendary,Chinese,2500,4.4,Classic Chinese Dishes
+50,Nara Thai,BKC,Fine Dining,Thai,3500,4.4,Authentic Thai Cuisine
+51,Americano,Fort,Chic,Italian-American,3200,4.6,"Neapolitan Pizza, Cocktails"
+52,Le Cirque Signature,Andheri,Fine Dining,"French, Italian",7000,4.5,Luxury French-Italian Dining
+53,Celini,Santacruz,Authentic Italian,Italian,4500,4.3,Handmade Pastas
+54,Vetro,Nariman Point,Fine Dining,Italian,6500,4.4,Extensive Wine List
+55,Bayroute,Juhu,Themed Dining,Middle Eastern,3300,4.7,Authentic Middle Eastern
+56,Soufflé S'il Vous Plaît,Churchgate,Specialty French,French,2500,4.5,Sweet & Savory Soufflés
+57,Bastian,Bandra,Trendy,Seafood,4500,4.5,"Lobster Rolls, Cheesecake"
+58,Pali Bhavan,Bandra,Boutique,Indian,2000,4.3,"Traditional Indian, Decor"
+59,Tanjore Tiffin Room,Bandra,Regional Specialty,Tamilian,1800,4.4,Homestyle Tamil Food
+60,Sodabottleopenerwala,BKC,Themed,Parsi,2000,4.2,"Parsi Food, Quirky Decor"
+61,Swati Snacks,Tardeo,Iconic,Gujarati,1000,4.6,"Panki, Fada ni Khichdi"
+62,Sardar Pav Bhaji,Tardeo,Legendary Street Food,Street Food,500,4.7,Butter Pav Bhaji
+63,Elco Pani Puri Centre,Bandra,Iconic Street Food,Street Food,600,4.4,Chaat & Pani Puri
+64,Guru Kripa,Sion,Legendary,Street Food,400,4.3,Samosa Chole
+65,Shree Krishna Batata Vada,Dadar,Legendary Street Food,Street Food,100,4.6,Batata Vada
+66,Aaswad,Dadar,Iconic,Maharashtrian,600,4.5,"Misal Pav, Thalipeeth"
+67,Anand Stall,Vile Parle,Legendary Street Food,Street Food,400,4.4,Dosa Varieties
+68,Cannon Pav Bhaji,CST,Legendary Street Food,Street Food,300,4.3,Classic Pav Bhaji
+69,K. Rustom & Co.,Churchgate,Iconic Dessert,Dessert,200,4.7,Ice Cream Sandwiches
+70,Bachelorr's,Chowpatty,Legendary,"Juices, Dessert",700,4.3,"Juices, Shakes, Ice Creams"
+71,Theobroma,Colaba,Famous Bakery,Dessert,600,4.6,"Brownies, Cakes"
+72,La Folie,Kala Ghoda,Artisan Bakery,Dessert,1000,4.5,French Patisserie
+73,Poetry by Love & Cheesecake,Kala Ghoda,Chic Cafe,Dessert,1200,4.4,"Cheesecakes, Cafe Food"
+74,Prithvi Cafe,Juhu,Iconic,Cafe,800,4.4,"Irish Coffee, Parathas"
+75,Grandmama's Cafe,Dadar,Themed Cafe,Cafe,1400,4.1,"Comfort Food, Decor"
+76,Sequel Bistro & Juice Bar,Bandra,Health Cafe,Healthy,1800,4.3,Organic & Vegan Options
+77,Birdsong - The Organic Cafe,Bandra,Quaint Cafe,Healthy,1500,4.2,Organic & Gluten-Free
+78,Subko Coffee Roasters,Bandra,Artisan Coffee,Cafe,900,4.7,"Specialty Coffee, Croissants"
+79,Koinonia Coffee Roasters,Bandra,Artisan Coffee,Cafe,700,4.6,Manual Brew Coffee
+80,Yazdani Bakery,Fort,Historic Bakery,Bakery,200,4.4,"Brun Maska, Mawa Cake"
+81,Ekaa,Fort,Fine Dining,Modern Indian,5000,4.6,Ingredient-Driven Cuisine
+82,Seefah,Bandra,Authentic,"Thai, Japanese",2500,4.5,Authentic Thai & Japanese
+83,Veronica's,Bandra,Trendy Cafe,Sandwiches,1200,4.6,Gourmet Sandwiches
+84,The Bagel Shop,Bandra,Niche,Cafe,1000,4.2,Authentic Bagels
+85,Mag St. Cafe,Colaba,Stylish,Cafe,1800,4.3,All-Day Cafe & Bar
+86,Bizza,Bandra,Pizzeria,Italian,1600,4.4,Creative Pizzas
+87,Poco Loco,Khar,Fun Dining,"Spanish, Mexican",2200,4.3,"Tapas, Cocktails"
+88,"Izumi, Katsu Sando",Bandra,Niche,Japanese,1500,4.7,Japanese Katsu Sando
+89,The Bluebop Cafe,Khar,Themed,Italian,2000,4.2,Live Jazz Music
+90,Millo,Lower Parel,Trendy,Vegetarian,1800,4.3,Global Vegetarian Cuisine
+91,Highway Gomantak,Bandra,Local Favourite,"Goan, Seafood",900,4.4,Goan Fish Thali
+92,Jai Hind Lunch Home,Lower Parel,Local Favourite,Malvani,1000,4.3,Malvani Seafood
+93,Apoorva,Fort,Local Favourite,Seafood,1200,4.3,Mangalorean Seafood
+94,Sion Lunch Home,Sion,Local Favourite,Seafood,800,4.4,Affordable Seafood Thalis
+95,Satkar Rice Plate House,Goregaon,Local Favourite,Malvani,700,4.5,Authentic Malvani Fish
+96,Pancham Puriwala,Fort,Historic,North Indian,300,4.2,Puri-Bhaji Thalis
+97,Modern Juice Centre,Matunga,Legendary,Juices,350,4.4,Fresh Juices & Snacks
+98,Cafe Madras,Matunga,Iconic,South Indian,500,4.6,"Filter Coffee, Tiffin"
+99,Ramashraya,Matunga,Iconic,South Indian,400,4.5,Udupi Breakfast
+100,Cafe Military,Fort,Iconic Cafe,Parsi,800,4.1,"Kheema Pav, Caramel Custard"
+101,Ishaara,Lower Parel,Unique Concept,Indian,2000,4.5,Served by speech & hearing impaired
+102,The Finch,Powai,Gastropub,Multi-Cuisine,2500,4.3,"Live Music, Brewery"
+103,AER,Worli,Rooftop Bar,Lounge,5000,4.6,"Cocktails, City View"
+104,The Daily Bar & Kitchen,Bandra,Bar,European,2200,4.2,"Cocktails, Good Vibe"
+105,Estella,Juhu,Modern Australian,Australian,4500,4.5,"Seafront, Sundowners"
+106,Kitchen Garden by Suzette,Bandra,Health Cafe,Healthy,1500,4.5,"Salads, Sandwiches, Smoothies"
+107,Cafe Panama,Lower Parel,Latin American,Latin,2500,4.3,"Tacos, Ceviche"
+108,London Taxi,Lower Parel,Gastropub,Global,2300,4.1,"Themed Decor, Cocktails"
+109,Glocal Junction,Andheri,Bar,Global,1800,4.2,"Fusion Food, Nightlife"
+110,Bombay Adda,Santacruz,Rooftop Bar,North Indian,2000,4,"Rooftop, Nightlife"
+111,Hitchki,BKC,Resto-bar,Fusion Indian,1800,4.4,"Quirky Menu, Bollywood Theme"
+112,M.I.T.R.O.N,Dadar,Lounge,Multi-Cuisine,1600,4.2,"Casual Vibe, Bar Food"
+113,145 Cafe & Bar,Kala Ghoda,Bar,Comfort Food,1800,4.3,"Freakshakes, Sliders"
+114,Effingut,Colaba,Brewery,Pub Grub,2000,4.4,Craft Beers
+115,Toit,Lower Parel,Brewery,Pub Grub,2200,4.6,"Craft Beers, Pizzas"
+116,Doolally Taproom,Khar,Brewery,Pub Grub,2000,4.5,"House Fries, Craft Beers"
+117,The Sassy Spoon,Nariman Point,Chic Dining,European,2500,4.3,"Quirky Decor, Desserts"
+118,Social,Multiple,Co-working/Bar,Multi-Cuisine,1600,4.3,"Themed Drinks, Casual Vibe"
+119,Cream Centre,Chowpatty,Veg Casual Dining,Multi-Cuisine,1500,4.2,"Channa Bhatura, Nachos"
+120,The Yoga House,Bandra,Health Cafe,Healthy,1400,4.3,"Yoga Studio, Healthy Food"
+121,Gadda Da Vida,Juhu,Lounge,Mediterranean,4000,4.4,"Sea View, Cocktails"
+122,Goya,Byculla,Modern European,European,3000,4.6,"Hidden Gem, Small Plates"
+123,Cecconi's,Juhu,Authentic Italian,Italian,4000,4.5,"Sunday Brunch, Sea View"
+124,The Clearing House,Ballard Estate,Modern European,European,3500,4.4,"Chic Ambience, Cocktails"
+125,Bombay Taco Company,Bandra,QSR,Mexican,800,4.2,Tacos
+126,Ray's Cafe & Pizzeria,Bandra,Pizzeria,Italian,1500,4.3,Thin Crust Pizzas
+127,Gustoso,Kemps Corner,Authentic Italian,Italian,3000,4.4,Neapolitan Pizza
+128,Farmer's Cafe,Bandra,Health Cafe,Healthy,1200,4.1,Healthy & Vegan Options
+129,Cafe Arpan,Juhu,Unique Concept,Indian,800,4.8,Run by adults with disabilities
+130,Out Of The Blue,Khar,Casual Dining,European,2000,4.2,"Fondue, Sizzlers"
+131,Mirchi and Mime,Powai,Unique Concept,Indian,2000,4.6,Served by speech & hearing impaired
+132,Madeira & Mime,Powai,Unique Concept,Pub Grub,1800,4.5,Sister pub to Mirchi and Mime
+133,Nawab Saheb,Powai,Fine Dining,North Indian,4000,4.4,"Kebabs, Indian Breads"
+134,Lake View Cafe,Powai,Buffet,Multi-Cuisine,3500,4.3,Lavish Buffets
+135,Emperor's Court,Powai,Fine Dining,Chinese,3000,4.1,Classic Chinese
+136,TAP,Multiple,Resto-bar,Multi-Cuisine,1500,4,Casual Bar
+137,Pop Tate's,Multiple,Resto-bar,Multi-Cuisine,1600,4.1,"Sizzlers, Casual Vibe"
+138,Cafe Churchill,Colaba,Quaint Cafe,Continental,1000,4.2,"Small, Cozy, Pastas"
+139,Cafe Zoe,Lower Parel,Chic Dining,European,2500,4.3,"Industrial Decor, Brunch"
+140,Plate & Pint,Kemps Corner,Cafe,"Bakery, Cafe",1000,4.2,"Desserts, Quick Bites"
+141,Mocambo Cafe,Fort,Classic Dining,Continental,1500,4.1,Old-World Charm
+142,Cafe Ideal,Chowpatty,Classic Dining,Parsi,900,4,Parsi Dishes
+143,Jimmy Boy,Fort,Classic Dining,Parsi,1000,4.1,Lagan nu Bhonu (Parsi Thali)
+144,Cafe Excelsior,Fort,Iconic Cafe,"Parsi, Mughlai",800,4,"Keema, Cutlets"
+145,Cafe Irani Chaii,Mahim,Iconic Cafe,Irani,400,4.3,Mutton Keema Ghotala
+146,Slink & Bardot,Worli,Chic Dining,Modern French,3500,4.4,"French Cuisine, Ambience"
+147,Woodside Inn,Colaba,Gastropub,Pub Grub,2000,4.3,"Burgers, Craft Beers"
+148,The Little Door,Andheri,Bar,Mediterranean,1800,4.2,"Fun Vibe, Karaoke"
+149,Blanco,Andheri,Themed,Greek,1600,4.1,Greek Themed Decor
+150,Lord of the Drinks,Andheri,Lounge,Multi-Cuisine,2500,4.3,"Large Space, Nightlife"
+151,The Irish House,Multiple,Pub,Pub Grub,2000,4.2,"Beer, Fish & Chips"
+152,Global Fusion,Bandra,Buffet,Pan-Asian,2500,4.3,Extensive Buffet
+153,Barbeque Nation,Multiple,Buffet,North Indian,1800,4.4,"Live Grill, Buffet"
+154,Sigree Global Grill,Powai,Buffet,North Indian,2000,4.2,Indian Grill Buffet
+155,Mini Punjab's Lakeside,Powai,Casual Dining,North Indian,1500,4.1,"Butter Chicken, Koliwada Prawns"
+156,Pritam Da Dhaba,Dadar,Classic Dining,North Indian,1600,4.2,Dhaba Style Seating
+157,Urban Tadka,Multiple,Casual Dining,North Indian,1400,4,Punjabi Food
+158,Persia Darbar,Jogeshwari,Casual Dining,Mughlai,1500,4.3,Raan Biryani
+159,Jaffer Bhai's Delhi Darbar,Multiple,Classic Dining,Mughlai,1400,4.2,"Biryani, Mughlai Dishes"
+160,Lucky Restaurant,Bandra,Classic Dining,Mughlai,1000,4.1,Biryani
+161,Goa Portuguesa,Mahim,Regional Specialty,Goan,1800,4.2,Authentic Goan Food
+162,Soul Curry,Powai,Regional Specialty,"Goan, Seafood",1600,4.3,Goan Curries
+163,The Calcutta Club,Andheri,Regional Specialty,Bengali,1200,4.2,"Luchi, Kosha Mangsho"
+164,Bhojohori Manna,Oshiwara,Regional Specialty,Bengali,1000,4.1,Traditional Bengali Thali
+165,Banana Leaf,Multiple,Casual Dining,South Indian,900,4.3,South Indian Thali
+166,Dakshinayan,Juhu,Casual Dining,South Indian,1000,4.4,Authentic Tiffin
+167,Cafe Mysore,Matunga,Iconic,South Indian,400,4.4,"Mysore Dosa, Filter Coffee"
+168,Arya Bhavan,Matunga,Iconic,South Indian,500,4.5,"Idli, Dosa"
+169,Shree Gangour Sweets,Juhu,Casual Dining,Rajasthani,1000,4.1,"Rajasthani Snacks, Sweets"
+170,Chetana,Fort,Traditional,"Gujarati, Rajasthani",1300,4.3,Vegetarian Thali
+171,Samrat,Churchgate,Traditional,Gujarati,1100,4.2,Gujarati Thali
+172,Prakash Shakahari Upahar Kendra,Dadar,Iconic,Maharashtrian,300,4.4,"Sabudana Vada, Misal"
+173,Mama Kane's Swatchha Upahar Griha,Dadar,Iconic,Maharashtrian,250,4.3,"Batata Vada, Thalipeeth"
+174,Panshikar,Multiple,QSR,Maharashtrian,400,4.2,Maharashtrian Sweets & Snacks
+175,Ladu Samrat,Parel,QSR,Maharashtrian,300,4.3,"Piyush, Kothimbir Vadi"
+176,Kailash Parbat,Multiple,Casual Dining,"Sindhi, North Indian",1000,4,"Chaat, Chole Bhature"
+177,Vig Refreshments,Chembur,QSR,Sindhi,300,4.4,"Dal Pakwan, Chole Bhature"
+178,Punjab Sweet House,Bandra,QSR,North Indian,400,4.2,"Samosa, Sweets"
+179,Merwans Cake Shop,Andheri,Bakery,Dessert,300,4.4,"Mawa Cake, Rolls"
+180,B. Merwan & Co.,Grant Road,Iconic Bakery,Bakery,200,4.3,"Mawa Cake, Bun Maska"
+181,Jimmy's Bakery,Bandra,Bakery,Dessert,400,4.2,"Macaroons, Cakes"
+182,American Express Bakery,Bandra,Bakery,Bakery,500,4.3,"Breads, Croissants"
+183,Le 15 Patisserie,Multiple,Dessert Parlour,Dessert,500,4.4,"Macarons, Cupcakes"
+184,Daniel Patissier,Bandra,Dessert Parlour,Dessert,600,4.6,"Macarons, Japanese Cheesecake"
+185,Boston Cupcakery,Multiple,Dessert Parlour,Dessert,400,4.2,"Cupcakes, Freakshakes"
+186,Bastian Bakery,Bandra,Bakery,Dessert,800,4.5,"Cheesecakes, Pastries"
+187,Chantilly Cafe,Bandra,Dessert Parlour,Dessert,700,4.6,"Hot Chocolate, Waffles"
+188,The Rolling Pin,Lower Parel,Boulangerie,Bakery,1200,4.2,"Breads, Pastries, Cafe Food"
+189,Suzette Bakery,Bandra,Bakery,Bakery,800,4.4,"Croissants, Breads"
+190,Gaylord's Bake Shop,Churchgate,Bakery,Bakery,600,4.3,"Pastries, Croissants"
+191,Kofuku,Bandra,Authentic Japanese,Japanese,2800,4.4,"Sushi, Traditional Seating"
+192,Hello Guppy,BKC,Fun & Quirky,Japanese,2000,4.1,"Ramen, Karaoke"
+193,Yazu - Pan Asian Supper Club,Andheri,Chic Dining,Pan-Asian,2500,4.5,"Sushi, Dim Sum"
+194,Taki Taki,Lower Parel,Chic Dining,Japanese,3000,4.4,"Sushi, Japanese Grills"
+195,The Fatty Bao,Bandra,Fun & Quirky,Pan-Asian,2200,4.3,"Baos, Ramen"
+196,Keiba,Mahalaxmi,Chic Dining,Pan-Asian,3000,4.2,Race Course View
+197,Facing East,Juhu,Classic Chinese,Chinese,1800,4.2,Authentic Chinese
+198,China Bistro,Multiple,Casual Dining,Chinese,1600,4.3,Pan-Asian Cuisine
+199,Mainland China,Multiple,Casual Dining,Chinese,2000,4.2,Classic Chinese Dishes
+200,Kuai Kitchen,Colaba,QSR,Chinese,900,4.3,"Quick, Modern Asian"
+201,The Bombay Presidency Golf Club,Chembur,Members Only,Multi-Cuisine,1500,4.4,Club Vibe
+202,Willingdon Sports Club,Mahalaxmi,Members Only,Multi-Cuisine,1800,4.5,Legacy Club
+203,Bombay Gymkhana,Fort,Members Only,Multi-Cuisine,1600,4.5,Historic Club
+204,Pali Village Cafe,Bandra,Boutique Cafe,European,2800,4.1,"Rustic Decor, Wine"
+205,Cafe Royal,Colaba,Classic Dining,Continental,1800,4,Sizzlers
+206,Kobe Sizzlers,Multiple,Casual Dining,Sizzlers,1500,4.1,Classic Sizzlers
+207,Yoko Sizzlers,Multiple,Casual Dining,Sizzlers,1600,4.2,Famous Sizzlers
+208,Fountain Sizzlers,Fort,Classic Dining,Sizzlers,1400,4,Old School Sizzlers
+209,Cafe Universal,Fort,Iconic Cafe,Multi-Cuisine,1200,4,"Parsi, Continental"
+210,Cafe General & Stores,Fort,Iconic Cafe,Parsi,600,4.1,"Akuri, Cutlets"
+211,Ideal Corner,Fort,Iconic Cafe,Parsi,800,4.2,"Dhansak, Sali Boti"
+212,Cafe Colony,Dadar,Iconic Cafe,Parsi,700,4.1,Keema Pav
+213,Light of Bharat,Dadar,Iconic Cafe,Irani,500,4,Bun Maska Chai
+214,Bismillah Restaurant,Mahim,Classic Dining,Mughlai,900,4.2,Seekh Kebabs
+215,Sarvi,Byculla,Classic Dining,Mughlai,800,4.3,Seekh Kebabs
+216,Noor Mohammadi Hotel,Bhendi Bazaar,Classic Dining,Mughlai,700,4.3,"Nalli Nihari, Sanju Baba Chicken"
+217,Persian Darbar,Byculla,Classic Dining,Mughlai,1500,4.4,Raan Biryani
+218,Chinese Palace,Santacruz,Classic Chinese,Chinese,1600,4.1,Old School Chinese
+219,Kimling,Bandra,Classic Chinese,Chinese,1500,4,Indian Chinese
+220,Uncle's Kitchen,Malad,Classic Chinese,Chinese,1200,4.2,Popular Local Chinese
+221,Joe's Pizza,Bandra,Pizzeria,Italian,1000,4.4,Pizza by the Slice
+222,1Tablespoon Pizza Kitchen,Matunga,Pizzeria,Italian,800,4.3,Thin Crust Pizzas
+223,Joey's Pizza,Malad,Pizzeria,Italian,900,4.5,Heavily Topped Pizzas
+224,Eva's Pizza,Andheri,Pizzeria,Italian,700,4.2,Local Pizza Chain
+225,Francesco's Pizzeria,Multiple,Pizzeria,Italian,1400,4.1,Gourmet Pizzas
+226,Jamie's Pizzeria,Lower Parel,Pizzeria,Italian,1500,4,Jamie Oliver Franchise
+227,Pizza Express,Multiple,Pizzeria,Italian,1800,4.2,Classic Italian Pizzas
+228,CinCin,BKC,Upscale Casual,Italian,3000,4.4,"Handmade Pasta, Wine"
+229,Mangii Ferra,Juhu,Casual Dining,Italian,2000,4.1,Wood Fired Pizzas
+230,Little Italy,Juhu,Veg Casual Dining,Italian,1800,4.2,Vegetarian Italian
+231,Cafe Mangii,Powai,Casual Dining,Italian,1600,4,"Pizzas, Pastas"
+232,Cafe Mommyjoon,Bandra,Specialty Cuisine,Iranian,1500,4.5,Authentic Iranian Kebabs
+233,Arbab,Bandra,Casual Dining,Lebanese,1800,4.3,Lebanese Grills
+234,Carter's Blue,Bandra,QSR,Lebanese,700,4.2,Shawarma Rolls
+235,Piccadilly,Colaba,QSR,Lebanese,800,4.1,"Shawarma, Falafel"
+236,Ayaz's,Fort,QSR,North Indian,400,4.3,Kathi Rolls
+237,Hangla's,Bandra,QSR,Bengali,500,4.1,Kathi Rolls
+238,The Good Wife,BKC,Chic Bar,European,3000,4.3,After-Work Drinks
+239,Monkey Bar,Bandra,Gastropub,Fusion,2200,4.2,"Quirky Food, Cocktails"
+240,Hoppipola,Multiple,Bar,Multi-Cuisine,1500,4,"Fun, Young Crowd"
+241,Quarter Pillar,Khar,Bar,North Indian,1400,4.1,Affordable Drinks
+242,Janata Lunch Home,Bandra,Bar,Seafood,900,4.2,"Cheap Drinks, Seafood"
+243,Gokul,Colaba,Bar,North Indian,800,4,"Dive Bar, Cult Following"
+244,Cafe Oval,Churchgate,Iconic Cafe,Multi-Cuisine,700,4,"Keema Pav, Puffs"
+245,Stadium Restaurant,Churchgate,Iconic Cafe,Multi-Cuisine,800,4.1,Keema Pav
+246,Raju Sandwich Stall,Churchgate,Street Food,Sandwiches,250,4.4,Grilled Sandwiches
+247,Gupta Sandwich,Vashi,Street Food,Sandwiches,300,4.5,Large Sandwiches
+248,Amar Juice Centre,Vile Parle,Street Food,Multi-Cuisine,600,4.2,"Pav Bhaji, Juices"
+249,Maruti Pav Bhaji,Vile Parle,Street Food,Street Food,400,4.3,Black Pav Bhaji
+250,Achija,Ghatkopar,Veg Casual Dining,Multi-Cuisine,1200,4.2,Late Night Veg Food
+251,Khau Galli,Multiple,Street Food,Street Food,500,4.1,Various Street Foods
+252,Amar Fast Food & Restaurant,Multiple,Casual Dining,Multi-Cuisine,1000,4,"Pav Bhaji, Pizzas"
+253,Shiv Sagar,Multiple,Veg Casual Dining,Multi-Cuisine,900,4,"Pav Bhaji, South Indian"
+254,Status,Nariman Point,Traditional,"Gujarati, South Indian",1200,4.2,Office Lunch Crowd
+255,Samvene,Santacruz,Veg Casual Dining,Multi-Cuisine,1300,4.1,Vegetarian Global Cuisine
+256,Candy & Green,Breach Candy,Health Cafe,Healthy,1600,4.2,Vegetarian Health Food
+257,Garde Manger Cafe,Vile Parle,Health Cafe,Healthy,1000,4.3,"Salads, Juices"
+258,The Village Shop,Bandra,Health Cafe,Healthy,1200,4.2,"Organic, Vegan"
+259,Earth Cafe,Bandra,Health Cafe,Healthy,1500,4.3,Vegan & Gluten-Free
+260,The Salad Bar & Walnut Cafe,Vashi,Health Cafe,Healthy,900,4.4,"Salads, Healthy Meals"
+261,Bombay Salad Co.,Bandra,Health Cafe,Healthy,1000,4.4,Make-Your-Own Salads
+262,Flax,Multiple,Health Cafe,Healthy,900,4.3,Healthy Bowls & Salads
+263,Protein Rush,Multiple,Health Cafe,Healthy,800,4.2,"Protein Shakes, Healthy Meals"
+264,Pishu's,Andheri,Health Cafe,Healthy,700,4.1,"Juices, Healthy Snacks"
+265,Fruitilicious,Multiple,Juices,Juices,600,4.2,"Fresh Juices, Milkshakes"
+266,Haji Ali Juice Centre,Haji Ali,Juices,Juices,700,4.1,"Fruit Creams, Juices"
+267,Rustomjee Ice Cream,Thane,Ice Cream,Ice Cream,300,4.4,Hand-churned Ice Cream
+268,Taj Ice Cream,Bhendi Bazaar,Ice Cream,Ice Cream,400,4.5,Sancha (Hand-churned) Ice Cream
+269,Apsara Ice Cream,Multiple,Ice Cream,Ice Cream,300,4.4,Unique Indian Flavours
+270,Naturals Ice Cream,Multiple,Ice Cream,Ice Cream,250,4.6,Fresh Fruit Ice Creams
+271,K. Rustom's,Marine Drive,Ice Cream,Ice Cream,200,4.7,Ice Cream Sandwiches
+272,Gokul Bite,Vile Parle,QSR,Gujarati,300,4.3,"Farsan, Dhokla"
+273,Mumbadevi Jalebiwala,Zaveri Bazaar,Street Food,Dessert,150,4.4,"Jalebi, Fafda"
+274,Punjab Sind Paneer,Multiple,QSR,Dairy,500,4.5,"Paneer, Dairy products"
+275,Tewari Bros.,Juhu,QSR,Sweets,400,4.2,"Samosa, Indian Sweets"
+276,Brijwasi Sweets,Multiple,QSR,Sweets,500,4.1,Indian Sweets
+277,MM Mithaiwala,Malad,QSR,Sweets,400,4.3,Large Variety of Sweets
+278,Shree Gangour Sweets,Juhu,QSR,Sweets,800,4.1,Sweets and Snacks
+279,Ashok Vada Pav,Dadar,Street Food,Vada Pav,100,4.6,Famous Vada Pav
+280,Aram Vada Pav,CST,Street Food,Vada Pav,100,4.4,Vada Pav near CST
+281,Dheeraj Vada Pav,Vile Parle,Street Food,Vada Pav,100,4.3,Vada Pav near college
+282,Jai Maharashtra Vada Pav,Andheri,Street Food,Vada Pav,100,4.2,Local Vada Pav
+283,Anand Dosa,Vile Parle,Street Food,Dosa,300,4.4,"Jinni Dosa, Cheese Dosa"
+284,Narayan's Dosa,Grant Road,Street Food,Dosa,250,4.3,Palak Paneer Dosa
+285,Theeram,Khar,Casual Dining,Kerala,900,4.3,Kerala Cuisine
+286,Sneha Restaurant,Mahim,Casual Dining,Kerala,600,4.4,"Appam, Beef Fry"
+287,Harish Lunch Home,Fort,Casual Dining,Kerala,700,4.2,Fish Curry Meals
+288,Deluxe Restaurant,Fort,Casual Dining,Kerala,800,4.1,Kerala Meals
+289,Just Kerala,Andheri,Casual Dining,Kerala,1000,4,Authentic Kerala Cuisine
+290,Gonguura,Andheri,Casual Dining,Andhra,1200,4.2,Andhra Meals
+291,Simply South,Thane,Casual Dining,South Indian,1000,4.3,Multi South Indian Cuisine
+292,Tanatan,Juhu,Modern Indian,Indian,2500,4.3,"Live Music, Modern Decor"
+293,Masala Library,BKC,Fine Dining,Modern Indian,6000,4.7,Molecular Gastronomy
+294,Farzi Cafe,Lower Parel,Modern Indian,Indian,2200,4.2,"Molecular Gastronomy, Casual"
+295,Kode,Lower Parel,Freestyle Bar,Global,3500,4.3,"Cocktails, Global Food"
+296,Arth,Khar,Chic Dining,Indian,3000,4.2,Gas-free Kitchen
+297,The Wine Rack,Lower Parel,Wine Bar,European,2800,4.4,Extensive Wine Selection
+298,Henpecked,Kala Ghoda,Farm-to-Table,Global,1800,4.1,"Healthy, Fresh Ingredients"
+299,The Homemade Cafe,Oshiwara,Cozy Cafe,Cafe,1200,4.3,"Homely Vibe, Comfort Food"
+300,McDonald's,Multiple,QSR,Fast Food,500,3.9,"Burgers, Fries"
+301,Burger King,Multiple,QSR,Fast Food,500,4,"Whopper, Burgers"
+302,KFC,Multiple,QSR,Fast Food,600,4,Fried Chicken
+303,Domino's Pizza,Multiple,QSR,Pizza,700,4.1,Pizza Delivery
+304,Pizza Hut,Multiple,QSR,Pizza,800,4,Pan Pizzas
+305,Subway,Multiple,QSR,Sandwiches,600,4.1,Sub Sandwiches
+306,Starbucks,Multiple,Cafe,Coffee,800,4.2,"Coffee, Frappuccinos"
+307,Cafe Coffee Day,Multiple,Cafe,Coffee,700,3.8,"Coffee, Hangout Spot"
+308,Chaayos,Multiple,Cafe,Tea,600,4.2,"Chai, Indian Snacks"
+309,Chai Point,Multiple,Cafe,Tea,500,4.1,"Chai, Quick Bites"
+310,Mad Over Donuts,Multiple,Dessert Parlour,Dessert,400,4.3,Donuts
+311,Krispy Kreme,Multiple,Dessert Parlour,Dessert,500,4.4,Original Glazed Doughnuts
+312,Dunkin' Donuts,Multiple,Dessert Parlour,Dessert,600,4.2,"Donuts, Burgers"
+313,Baskin Robbins,Multiple,Ice Cream,Ice Cream,400,4.2,Ice Cream Flavors
+314,Haagen-Dazs,Multiple,Ice Cream,Ice Cream,800,4.3,Premium Ice Cream
+315,Gelato Italiano,Multiple,Ice Cream,Ice Cream,300,4.1,Gelato
+316,Papacream,Churchgate,Ice Cream,Ice Cream,500,4.4,Liquid Nitrogen Ice Cream
+317,Keventers,Multiple,Milkshakes,Dessert,500,4.1,Milkshakes in Glass Bottles
+318,The J,Multiple,QSR,Fries,400,4.3,Fries in a Cone
+319,Belgian Waffle Co.,Multiple,Dessert Parlour,Dessert,400,4.4,Waffles
+320,Wok Express,Multiple,QSR,Chinese,700,4.1,Make-Your-Own Wok
+321,5 Spice,Multiple,Casual Dining,Chinese,1500,4.1,"Large Portions, Indian Chinese"
+322,Gypsy Chinese,Dadar,Classic Chinese,Chinese,1600,4.2,Family Chinese Restaurant
+323,The Sahib Room & Kipling Bar,Lower Parel,Fine Dining,Indian,4500,4.4,"Colonial Theme, Indian Food"
+324,Hornby's Pavilion,Lower Parel,Buffet,Multi-Cuisine,3500,4.2,"All-Day Dining, Buffet"
+325,Seven Kitchens,Lower Parel,Buffet,Multi-Cuisine,4000,4.5,Lavish Sunday Brunch
+326,Lotus Cafe,Juhu,Buffet,Multi-Cuisine,3800,4.4,"24-Hour Coffee Shop, Buffet"
+327,The Earth Plate,Vile Parle,Buffet,Multi-Cuisine,3500,4.3,Global Cuisine Buffet
+328,Glasshouse,Santacruz,Buffet,Multi-Cuisine,3000,4.2,"Buffet, Natural Light"
+329,Pondichery Cafe,BKC,Buffet,Multi-Cuisine,3800,4.4,French & Indian Buffet
+330,Fifty Five East,Santacruz,Buffet,Multi-Cuisine,3500,4.3,"Thai, Japanese, Indian Buffet"
+331,Tiqri,Thane,Buffet,Multi-Cuisine,2800,4.2,All-Day Dining
+332,The Peshwa Pavilion,Andheri,Buffet,Multi-Cuisine,3200,4.1,24-Hour Buffet
+333,Horniman Circle Garden Cafe,Fort,Cafe,Multi-Cuisine,1200,4.2,Garden Setting
+334,Bombay Coffee House,Ballard Estate,Cafe,Cafe,900,4.1,"Retro Vibe, Coffee"
+335,Mockingbird Cafe Bar,Churchgate,Cafe,Cafe,1600,4.3,Book-Themed Cafe
+336,Leaping Windows,Andheri,Cafe,Cafe,1400,4.4,Comic Book Library Cafe
+337,Cat Cafe Studio,Andheri,Unique Concept,Cafe,600,4.5,Cafe with Cats
+338,D'Crepes Cafe,Multiple,Cafe,Cafe,800,4.2,"Crepes, Cafe Food"
+339,Aromas Cafe,Multiple,Cafe,Cafe,1200,4.1,"Coffee, All-Day Breakfast"
+340,Tea Villa Cafe,Multiple,Cafe,Tea,1000,4,Extensive Tea Menu
+341,Taj Mahal Tea House,Bandra,Cafe,Tea,1500,4.5,"Premium Tea, Colonial Vibe"
+342,Pranzi Ristorante and Lounge,Khar,Lounge,Italian,2000,4.1,"Sheesha, Italian Food"
+343,Tamasha,Lower Parel,Lounge,Fusion,2500,4.2,"Nightlife, Large Space"
+344,OPA Kipos,Worli,Chic Dining,Greek,3500,4.6,"Plate Smashing, Greek Vibe"
+345,Diablo,Worli,Themed,Middle Eastern,3000,4.3,"Gothic Decor, Cocktails"
+346,Tori,Bandra,Chic Dining,Latin-Asian,2800,4.4,Fusion Cuisine
+347,Qualia,Lower Parel,Fine Dining,European,3500,4.5,Modern European
+348,Bombay Sweet Shop,Byculla,Modern Mithai,Sweets,800,4.6,Reimagined Indian Sweets
+349,The Pastry Queen,Bandra,Bakery,Dessert,600,4.3,"Cakes, Pastries"
+350,Deliciae by Bunty Mahajan,Khar,Bakery,Dessert,700,4.4,Custom Cakes
+351,Le Pure,Bandra,Bakery,Dessert,500,4.2,Eggless Desserts
+352,Monginis,Multiple,Bakery,Dessert,400,3.9,"Cakes, Savouries"
+353,Ribbons & Balloons,Multiple,Bakery,Dessert,500,4,"Cakes, Pastries"
+354,Birdy's,Multiple,Bakery,Dessert,600,4.1,"Cakes, Sandwiches"
+355,Celejor,Multiple,Bakery,Dessert,500,4,Cakes
+356,Natural's Now,Juhu,Ice Cream,Ice Cream,400,4.5,Freshly Churned Ice Cream
+357,Cafe New York,Hughes Road,Classic Dining,Multi-Cuisine,1200,4,"Sizzlers, American Food"
+358,Howra,Multiple,QSR,Bengali,600,4.2,Kathi Rolls
+359,Oye Kake,Lower Parel,Casual Dining,Punjabi,1000,4.2,Amritsari Kulcha
+360,Papa Pancho Da Dhaba,Bandra,Casual Dining,Punjabi,1200,4.1,Dhaba Food
+361,The Tanjore,Juhu,Fine Dining,South Indian,2500,4.2,"Thali, Decor"
+362,South of Vindhyas,Andheri,Fine Dining,South Indian,3500,4.3,"Live Music, Thali"
+363,Maheshwari Udyan Cafe,Matunga,Iconic,South Indian,300,4.3,"Filter Coffee, Snacks"
+364,Anand Bhavan,Matunga,Iconic,South Indian,400,4.2,Traditional Tiffin
+365,A Rama Nayak's Udipi,Matunga,Iconic,South Indian,300,4.4,Meal on a Banana Leaf
+366,Mani's Lunch Home,Matunga,Iconic,South Indian,350,4.5,Authentic Meals
+367,Vinay Health Home,Charni Road,Traditional,Maharashtrian,400,4.4,"Misal Pav, Usal"
+368,Tambe Arogya Bhavan,Dadar,Traditional,Maharashtrian,300,4.3,Batata Vada
+369,Sujata Uphar Griha,Girgaon,Traditional,Maharashtrian,250,4.3,"Upma, Sheera"
+370,Martand Misal,Thane,QSR,Maharashtrian,300,4.4,Misal
+371,Mamledar Misal,Thane,QSR,Maharashtrian,250,4.5,Spicy Misal
+372,Sadguru Veg Diet,Chembur,Veg Casual Dining,South Indian,700,4.2,"Pav Bhaji, Juices"
+373,Vithal Bhelwala,CST,Street Food,Street Food,200,4.3,Bhel Puri
+374,Sharma Bhel Puri House,Vile Parle,Street Food,Street Food,200,4.2,"Bhel Puri, Sev Puri"
+375,Badshah,Crawford Market,Juices,Juices,600,4.1,Falooda
+376,Shalimar,Bhendi Bazaar,Classic Dining,Mughlai,1200,4.2,"Raan, Mughlai Food"
+377,Delhi Zaika,Grant Road,Classic Dining,Mughlai,1000,4.3,Changezi Chicken
+378,Cafe Noorani,Tardeo,Classic Dining,Mughlai,1100,4.1,"Biryani, Tandoori Chicken"
+379,Zaffran,Multiple,Casual Dining,Mughlai,1800,4.2,Late Night Mughlai
+380,Goila Butter Chicken,Andheri,Delivery,North Indian,900,4.3,Butter Chicken
+381,Naaz,Andheri,Delivery,North Indian,800,4.1,Tandoori Chicken
+382,Kareem's,Multiple,Casual Dining,North Indian,1400,4,"Kebabs, Mughlai"
+383,The Bohri Kitchen,Worli,Delivery,Bohri,1500,4.6,Bohri Thaal Experience
+384,Jimmy's Kitchen,Bandra,Delivery,Chinese,800,4.2,Indian Chinese Delivery
+385,Yummies,Bandra,Delivery,Chinese,700,4.1,Local Chinese Delivery
+386,The Blue,Bandra,Delivery,Pan-Asian,1000,4.3,Sushi Delivery
+387,Sante Spa Cuisine,BKC,Health Cafe,Healthy,1800,4.3,"Healthy, Vegan, Spa Cuisine"
+388,Bombay Baking Company,Juhu,Cafe,Bakery,1200,4.2,"Hotel Cafe, Pastries"
+389,The Belgian Cafe,Santacruz,Cafe,European,1000,4.1,"Waffles, Coffee"
+390,Fable,Juhu,Cafe,European,1800,4.2,"Book-Themed, All-Day Dining"
+391,Silver Beach Cafe,Juhu,Cafe,European,2000,4.2,"Pizzas, Continental"
+392,Alfredo's,Juhu,Casual Dining,Italian,1800,4.1,"Pizzas, Pastas, Vibe"
+393,Mezzo Mezzo,Juhu,Fine Dining,Italian,4000,4.3,Authentic Italian
+394,Tan-Go,Andheri,Casual Dining,Spanish,1500,4.2,"Tapas, Sangria"
+395,The Fusion Kitchen,Borivali,Casual Dining,Fusion,1400,4.3,Multi-Cuisine Fusion
+396,Shiv Krishna,Chembur,Veg Casual Dining,South Indian,800,4.3,Local Favourite
+397,Geeta Bhavan,Chembur,QSR,South Indian,400,4.2,Quick Tiffin
+398,The Wine Spring,Thane,Wine Bar,European,1800,4.2,Wine and Dine
+399,The Food Town,Thane,Casual Dining,Multi-Cuisine,1200,4.1,Family Restaurant
+400,August Cafe,Andheri,Cozy Cafe,Cafe,900,4.2,"Quiet, Homely Cafe"
+401,The Corner House,Bandra,Cafe,European,1300,4,Small Plates
+402,Cafe Basilico,Bandra,Cafe,European,1500,4.1,"Bistro Vibe, Salads"
+403,Salt,Vashi,Fine Dining,Indian,2500,4.3,Modern Indian
+404,Pot Pourri,Vashi,Casual Dining,Multi-Cuisine,1600,4.2,"Sizzlers, Buffet"
+405,British Brewing Company,Multiple,Pub,Pub Grub,1800,4.1,English Pub Vibe
+406,The Stables,Andheri,Gastropub,Pub Grub,2000,4.2,Horse Racing Theme
+407,Brewbot,Andheri,Brewery,Pub Grub,1800,4.1,"Craft Beer, Rooftop"
+408,The White Owl,Lower Parel,Brewery,Pub Grub,2200,4.2,Craft Beer
+409,Gateway Taproom,BKC,Gastropub,Pub Grub,2400,4.4,"Craft Beer, European Food"
+410,Independence Brewing Company,Andheri,Brewery,Pub Grub,2000,4.3,Craft Beer
+411,O'Pao,Multiple,QSR,Indian,300,4.3,Gourmet Vada Pav
+412,Pack-a-Pav,Multiple,QSR,Indian,400,4.2,Kebab Pavs
+413,Litti Express,Andheri,QSR,Bihari,400,4.3,Litti Chokha
+414,The Bhojpuri Kitchen,Andheri,Delivery,Bihari,600,4.1,Bihari Cuisine
+415,Oye Teri,Andheri,Delivery,Punjabi,700,4,Punjabi Thali
+416,The Paratha House,Vile Parle,QSR,North Indian,500,4.2,Parathas
+417,Only Parathas,Multiple,Casual Dining,North Indian,900,4.1,Stuffed Parathas
+418,Not Just Parathas,Thane,Casual Dining,North Indian,1000,4,Variety of Parathas
+419,Lassi Te Parrontthe,Bandra,QSR,Punjabi,600,4.2,Parathas & Lassi
+420,Yeti - The Himalayan Kitchen,Khar,Specialty Cuisine,Tibetan,1500,4.4,"Momos, Thukpa"
+421,New Martin Hotel,Colaba,Local Favourite,Goan,600,4.3,Goan Home-style Food
+422,Snow-White,Colaba,Local Favourite,Goan,700,4.1,Goan Snacks
+423,City Kitchen,Fort,Local Favourite,Goan,800,4.2,"Vindaloo, Sorpotel"
+424,Chaitanya,Dadar,Local Favourite,Malvani,1000,4.5,Malvani Seafood Thali
+425,Sindhudurg,Dadar,Local Favourite,Malvani,1100,4.3,Authentic Malvani Cuisine
+426,Hotel Gomantak,Dadar,Local Favourite,Malvani,900,4.2,Fish Fry
+427,Ankur,Fort,Upscale Casual,Seafood,1800,4.3,Coastal Cuisine
+428,Pradeep Gomantak,Fort,Local Favourite,"Goan, Seafood",800,4.2,Fish Thali
+429,Pratap Lunch Home,Fort,Local Favourite,Seafood,1100,4.3,Prawns Koliwada
+430,Har-gobind,Dadar,Veg Casual Dining,North Indian,1200,4.2,Punjabi Vegetarian
+431,Bhagat Tarachand,Multiple,Veg Casual Dining,"Sindhi, Punjabi",900,4.4,"Kutti, Chaas in Beer Bottles"
+432,El-Dorado,Kalbadevi,Bar,Multi-Cuisine,1000,4,Old-school Bar
+433,Cafe Universal,Fort,Classic Dining,"Parsi, Continental",1300,4.1,"Burgers, Steaks"
+434,Sadanand,Andheri,Veg Casual Dining,South Indian,800,4.1,Family Restaurant
+435,Rama Krishna,Vile Parle,Veg Casual Dining,South Indian,700,4.2,Udipi Restaurant
+436,Shree Dutt,Vile Parle,QSR,Maharashtrian,300,4.3,"Batata Vada, Misal"
+437,Status Veg,Thane,Veg Casual Dining,Multi-Cuisine,1000,4.2,Vegetarian Thali & A La Carte
+438,Trupti,Thane,Veg Casual Dining,Gujarati,900,4.1,Gujarati Thali
+439,Metkut,Thane,Casual Dining,Maharashtrian,800,4.3,Maharashtrian Thali
+440,Masaledar,Thane,Casual Dining,North Indian,1200,4.2,Punjabi Cuisine
+441,Thekka,Thane,Bar,North Indian,1500,4.1,Desi Bar Vibe
+442,Rude Lounge,Multiple,Lounge,North Indian,1800,4,"Nightlife, Rooftop"
+443,Angrezi Patiyalaa,Multiple,Lounge,North Indian,1600,4.1,"Fusion Food, Nightlife"
+444,The Roof Top,Andheri,Rooftop Bar,North Indian,1700,3.9,Rooftop Ambience
+445,The Terrace,Andheri,Rooftop Bar,Multi-Cuisine,1900,4,Casual Rooftop
+446,Bayview Cafe,Colaba,Rooftop Bar,Cafe,1500,4.3,"Sea View, Casual"
+447,Koyla,Colaba,Rooftop Bar,Mughlai,2500,4.1,"Hookah, Indian Seating"
+448,Asilo,Lower Parel,Rooftop Bar,European,5500,4.5,"Luxury Rooftop, Views"
+449,Dome,Churchgate,Rooftop Bar,Lounge,4000,4.4,"Sea View, Sunsets"
+450,Candy & Green,Breach Candy,Rooftop Bar,Healthy,1800,4.2,Vegetarian Rooftop
+451,Rike,Andheri,Terrace Bar,Pan-Asian,2200,4.3,"Terrace, Cocktails"
+452,Bonobo,Bandra,Bar,Pub Grub,2000,4.2,"Live Gigs, Cocktails"
+453,The Den,Bandra,Bar,Pub Grub,1800,4.1,Neighborhood Bar
+454,Door No. 1,Bandra,Bar,Retro,1600,4.2,"Retro Music, Karaoke"
+455,The Bar Stock Exchange,Multiple,Bar,Pub Grub,1800,4.2,Stock Market Concept for Drinks
+456,The Ghetto,Mahalaxmi,Pub,Pub Grub,1500,4.3,"Dive Bar, Pool Table, Rock Music"
+457,Toto's Garage,Bandra,Pub,Pub Grub,1800,4.2,"Garage Themed, Rock Music"
+458,Three Wise Men,Santacruz,Pub,Pub Grub,1600,4.1,Casual Pub Vibe
+459,Quench,Bandra,Pub,Pub Grub,1400,4,"Small, Local Pub"
+460,Jughead's,Multiple,Pub,Pub Grub,1500,4.1,"Sizzlers, Happy Hours"
+461,Cafe Free India,Marine Lines,Pub,Continental,1300,4.2,Old World Charm
+462,Colaba Social,Colaba,Co-working/Bar,Multi-Cuisine,1700,4.3,"Sea View, Co-working Space"
+463,Cafe Marina,Sea Palace Hotel,Rooftop Bar,Multi-Cuisine,2000,4.2,Harbour View
+464,The Little Easy,Bandra,Bar,European,1800,4.2,Speakeasy Vibe
+465,The Boston Butt,Bandra,Specialty Cuisine,American,2500,4.4,"Smokery, Barbeque"
+466,Imbiss,Bandra,Local Favourite,German,1000,4.3,"Sausages, Meat Platters"
+467,Smokin' Joe's,Multiple,QSR,Pizza,800,4,Indian Style Pizza
+468,Cheelizza,Multiple,QSR,Pizza,700,4.1,"""India's Pizza"""
+469,The Artful Baker,Multiple,Bakery,Bakery,600,4.3,"Croissants, Coffee"
+470,Brownie Point,Multiple,Bakery,Dessert,400,4.2,Brownies
+471,Sweetish House Mafia,Multiple,Bakery,Dessert,300,4.4,Cookies
+472,Oven Fresh,Dadar,Bakery,Bakery,500,4.3,"Puffs, Cakes"
+473,The Baker's Dozen,Multiple,Bakery,Bakery,400,4.4,Sourdough Bread
+474,Elementaria Bakery Cafe,Multiple,Cafe,Dessert,900,4.2,"Tube Cakes, Desserts"
+475,Guilt Trip,Multiple,Dessert Parlour,Dessert,500,4.1,"Cupcakes, Desserts"
+476,Sleight of Hand,Multiple,Bakery,Dessert,600,4.3,"Coffee, Baked Goods"
+477,Plate & Pint,Kemps Corner,Cafe,"Bakery, Cafe",1200,4.2,"Cronuts, Desserts"
+478,Garde Manger Cafe,Vile Parle,Health Cafe,Healthy,1100,4.3,"Salads, Smoothies"
+479,Sequel,BKC,Health Cafe,Healthy,2000,4.3,Upscale Healthy Food
+480,The London Bubble Co.,Multiple,Dessert Parlour,Dessert,400,4.1,Bubble Waffles
+481,Icekraft,Multiple,Ice Cream,Ice Cream,400,4.2,Rolled Ice Cream
+482,Shahi Durbar,Multiple,Dessert Parlour,Dessert,500,4.2,"Kulfi, Falooda"
+483,Puranmal,Multiple,Veg Casual Dining,North Indian,900,4,"Thali, Sweets"
+484,Esora,Vile Parle,Casual Dining,Multi-Cuisine,1500,4.1,Chic Decor
+485,Paatra,Thane,Fine Dining,North Indian,2800,4.2,Indian Cuisine in a Hotel
+486,The Oriental Hub,Thane,Casual Dining,Pan-Asian,1600,4.2,Multi-Asian Cuisine
+487,China Valley,Thane,Classic Chinese,Chinese,1400,4.1,Old-School Chinese
+488,Chopstix,Andheri,QSR,Chinese,700,4.2,Quick Chinese
+489,Five Fat Monks,Multiple,QSR,Chinese,800,4,Wok Bowls
+490,The Appetite Momos,Andheri,QSR,Tibetan,400,4.3,Momos
+491,Kepchaki Momos,Multiple,QSR,Tibetan,300,4.2,Variety of Momos
+492,Dimsum (n) more,Multiple,QSR,Chinese,500,4.1,Dim Sum
+493,Dev's Momo Hut,Dadar,QSR,Tibetan,300,4.2,Momos
+494,Sbarro,Multiple,QSR,Pizza,700,3.9,New York Style Pizza
+495,Taco Bell,Multiple,QSR,Mexican,600,4,"Tacos, Burritos"
+496,Chili's,Multiple,Casual Dining,Tex-Mex,2000,4.2,"Burgers, Fajitas"
+497,TGI Fridays,Multiple,Casual Dining,American,2200,4.1,Jack Daniel's Grill
+498,Hard Rock Cafe,Andheri,Casual Dining,American,2800,4.3,"Burgers, Live Music"
+499,Denny's,Multiple,Diner,American,1500,4,All-Day Breakfast
+500,Grand Central,Chembur,Casual Dining,Multi-Cuisine,1400,4.1,Family Restaurant
+501,Chembur Social,Chembur,Co-working/Bar,Multi-Cuisine,1600,4.2,Social Outlet
+502,Le Cafe,Chembur,Cafe,Cafe,1000,4.2,Cozy Local Cafe
+503,VIG,Chembur,QSR,Sindhi,350,4.4,Dal Pakwan
+504,China Land,Chembur,Classic Chinese,Chinese,1300,4.2,Local Chinese Favorite
+505,Sadak Chaap,Chembur,QSR,North Indian,600,4.3,Soya Chaap
+506,Theeram Restaurant,Chembur,Casual Dining,Kerala,800,4.3,Kerala Cuisine
+507,Aditi Fast Food,Parel,QSR,South Indian,400,4.2,Quick Bites
+508,Gypsy Corner,Dadar,Veg Casual Dining,Multi-Cuisine,900,4.1,Vegetarian Food
+509,Terttulia,Dadar,Casual Dining,European,2000,4.3,"Pizzas, Sangria"
+510,Oven Story Pizza,Multiple,Delivery,Pizza,800,4.2,Different Pizza Bases
+511,Behrouz Biryani,Multiple,Delivery,Biryani,900,4.3,Premium Biryani Delivery
+512,Faasos,Multiple,Delivery,Wraps,500,4.1,Wraps and Rolls
+513,The Good Bowl,Multiple,Delivery,Indian,600,4.2,Indian Bowls
+514,LunchBox,Multiple,Delivery,Thali,500,4.1,Thali Delivery
+515,Sweet Bengal,Multiple,QSR,Bengali,400,4.4,Bengali Sweets
+516,Sandwizza,Multiple,QSR,Sandwiches,400,4.3,Grilled Sandwiches
+517,Maroosh,Multiple,QSR,Lebanese,600,4.1,"Shawarma, Rolls"
+518,Tibb's Frankie,Multiple,QSR,Frankie,300,4.2,Original Frankie
+519,Jim-me's Kitchen,Bandra,Classic Chinese,Chinese,1200,4.2,Local Chinese Joint
+520,Hearsch Bakery,Bandra,Bakery,Bakery,300,4.4,"Puffs, Burgers, Biryani"
+521,A1 Bakery,Bandra,Bakery,Bakery,200,4.3,"Cutlets, Puffs"
+522,Good Luck Cafe,Bandra,Iconic Cafe,Irani,500,4.1,Keema Pav
+523,Cafe Andora,Bandra,Cafe,Goan,400,4.2,Goan Snacks
+524,Snack Shack,Bandra,QSR,Fast Food,500,4.1,"Burgers, Hot Dogs"
+525,And Chillies,Bandra,Pizzeria,Italian,900,4.2,Pizza
+526,The Bird,Bandra,QSR,Fried Chicken,600,4.3,Fried Chicken Burgers
+527,Shree Sagar,Bandra,Veg Casual Dining,South Indian,700,4,Udipi Food
+528,Tavaa,Bandra,Casual Dining,North Indian,1400,4.2,Tawa preparations
+529,Mini Punjab,Bandra,Casual Dining,North Indian,1500,4.1,Koliwada Prawns
+530,Jai Jawan,Bandra,Street Food,North Indian,500,4.4,"Fish Fry, Prawns Fry"
+531,Sahibaan,Bandra,Classic Chinese,Chinese,1600,4.2,Family Chinese Restaurant
+532,Sequel,Bandra,Health Cafe,Healthy,1900,4.3,Upscale Healthy Food
+533,Pali Thai,Bandra,Chic Dining,Thai,2500,4.3,Modern Thai
+534,Izumi Pâtisserie,Bandra,Bakery,Dessert,800,4.6,Japanese Desserts
+535,Moner,Bandra,Dessert Parlour,Dessert,1000,4.7,Plated Desserts
+536,The Ice Cream Bakery,Multiple,Ice Cream,Ice Cream,400,4.3,Ice Cream Cakes
+537,The Chocolate Heaven,Multiple,Cafe,Dessert,800,4.1,Chocolate Dishes
+538,Huber & Holly,Juhu,Ice Cream,Ice Cream,600,4.5,Mighty Midas (Gold Ice Cream)
+539,R's Kitchen,Juhu,Casual Dining,Parsi,1200,4.3,Parsi Bhonu
+540,Tan-Go,Juhu,Casual Dining,Spanish,1600,4.2,Tapas
+541,Dakshin Culture Curry,Juhu,Casual Dining,South Indian,1500,4.2,Chettinad Cuisine
+542,Paaneri,Dadar,Traditional,Maharashtrian,900,4.2,Thali
+543,Aswad,Ghatkopar,Veg Casual Dining,Gujarati,800,4.3,"Farsan, Thali"
+544,Pooja,Ghatkopar,Veg Casual Dining,Multi-Cuisine,1000,4.1,Family Restaurant
+545,WTC Pasta,Multiple,QSR,Italian,500,4.3,"""Make your own Pasta"""
+546,World of Waffles,Multiple,Dessert Parlour,Dessert,400,4.2,Waffles
+547,Chetty's Corner,Multiple,QSR,South Indian,300,4.3,Bun Nippat
+548,DP's,Matunga,Iconic,Fast Food,500,4.3,"Pav Bhaji, Cutlets"
+549,Koolar & Co.,Matunga,Iconic Cafe,Irani,400,4.2,Irani Breakfast
+550,Olympia Coffee House,Colaba,Iconic Cafe,Mughlai,600,4.3,"Keema Pav, Mutton Fry"
+551,Bagdadi,Colaba,Iconic,Mughlai,700,4.2,"Chicken Fry, Tandoori Roti"
+552,Bade Miya,Fort,Classic Dining,Mughlai,1200,4.1,"Not the stall, the restaurant"
+553,Gokul Refreshment,Fort,Bar,North Indian,800,4,A step up from the dive bar
+554,Cafe Fountain,Fort,Cafe,Multi-Cuisine,700,4,Local Cafe
+555,Cafe Gulshan,Matunga,Iconic Cafe,Irani,300,4.1,"Keema Pav, Chai"
+556,Sharda Bhavan,Matunga,Iconic,South Indian,300,4.4,Authentic Udipi
+557,Hotel Deluxe,Fort,Local Favourite,Kerala,700,4.2,Kerala Meals on Banana Leaf
+558,Taste of Kerala,Fort,Local Favourite,Kerala,600,4.3,"Appam, Fish Curry"
+559,Hotel Sunny,Chembur,Local Favourite,Kerala,800,4.3,Mallu Food
+560,Theeram,Kalina,Local Favourite,Kerala,900,4.2,Kerala Cuisine
+561,King's Restaurant,Andheri,Classic Dining,North Indian,1400,4,Family Restaurant
+562,Gopal Krishna,Andheri,Veg Casual Dining,South Indian,700,4.1,Udipi Restaurant
+563,Shree Ram,Andheri,Veg Casual Dining,Multi-Cuisine,800,4,Veg Family Restaurant
+564,Navratna,Andheri,Veg Casual Dining,South Indian,900,4.1,Udipi Deluxe
+565,Vedge,Andheri,Veg Casual Dining,Multi-Cuisine,1300,4.2,Modern Vegetarian
+566,Cafe Condi,Andheri,Cafe,Continental,1000,4.2,Parsi-run Cafe
+567,The Friends' Cafe,Andheri,Cafe,Cafe,800,4.1,Local Hangout
+568,Tea 'n' Me,Andheri,Cafe,Tea,700,4.2,Tea Varieties
+569,The Boston Cafe & Patisserie,Andheri,Cafe,Dessert,900,4.2,"Desserts, Coffee"
+570,WTF!,Andheri,Bar,Pub Grub,1500,4,Casual Bar
+571,The BarKhana,Andheri,Bar,North Indian,1600,4.1,Indian Bar Food
+572,The House,Andheri,Lounge,Multi-Cuisine,1800,4.1,Nightlife
+573,The Tipsy Town,Andheri,Lounge,Multi-Cuisine,1700,4,Lounge Vibe
+574,Bombay Cocktail Bar,Andheri,Lounge,Multi-Cuisine,2200,4.2,"Nightclub, Cocktails"
+575,Opa! Bar & Cafe,Andheri,Lounge,Mediterranean,2000,4.2,"Rooftop, Mediterranean"
+576,Rainforest Resto-Bar,Andheri,Themed,Multi-Cuisine,1800,4.1,Jungle Themed
+577,Urban Vibe,Andheri,Casual Dining,Multi-Cuisine,1400,4,Family Restaurant
+578,Poptates,Andheri,Casual Dining,Multi-Cuisine,1600,4.1,"Sizzlers, Casual"
+579,Laxmi,Borivali,Veg Casual Dining,Multi-Cuisine,900,4.2,Popular Veg Restaurant
+580,The Borivali Kitchen,Borivali,Casual Dining,Multi-Cuisine,1200,4.1,Family Dining
+581,Eskay Resorts,Borivali,Buffet,Multi-Cuisine,1500,4,Resort Dining
+582,Gorai Food Court,Borivali,Food Court,Multi-Cuisine,600,4,Local Food Court
+583,Chetan's,Borivali,Veg Casual Dining,South Indian,800,4.1,Udipi Restaurant
+584,Patel's,Borivali,Veg Casual Dining,Gujarati,900,4.2,Gujarati Thali
+585,The Friends' Bench,Borivali,Cafe,Cafe,700,4.1,Local Cafe
+586,90ft Above,Borivali,Rooftop Bar,Vegetarian,1800,4.2,Veg Rooftop
+587,The Chimney,Borivali,Classic Chinese,Chinese,1200,4.1,Local Chinese
+588,Blue Flame,Borivali,Casual Dining,North Indian,1400,4,Tandoori Dishes
+589,Samrat's,Borivali,Veg Casual Dining,Multi-Cuisine,1000,4.2,Family Veg Restaurant
+590,Aditya,Borivali,Veg Casual Dining,South Indian,700,4.1,Udipi Joint
+591,Shreeji's,Borivali,Street Food,Sandwiches,400,4.3,Famous Sandwich Stall
+592,B Mad,Borivali,Cafe,Fast Food,600,4.2,Burgers and More
+593,The Belgian Waffle Co.,Borivali,Dessert Parlour,Dessert,400,4.4,Waffles
+594,The Waffle Hut,Borivali,Dessert Parlour,Dessert,300,4.2,Waffles
+595,The Food Studio,Borivali,Casual Dining,Multi-Cuisine,1300,4.1,Modern Decor
+596,Zaika,Borivali,Casual Dining,North Indian,1500,4.1,Mughlai and Punjabi
+597,Royal Cafe,Crawford Market,Iconic Cafe,Multi-Cuisine,800,4,Old School Cafe
+598,Gulshan-e-Iran,Crawford Market,Classic Dining,Mughlai,700,4.2,"Chicken Fry, Seekh Kebabs"
+599,Badshah & Cold Drink House,Crawford Market,Juices,Juices,500,4.2,"Falooda, Juices"
+600,B Bhagat Tarachand,Zaveri Bazaar,Traditional,"Sindhi, Punjabi",900,4.4,Original branch of the chain
