@@ -154,7 +154,7 @@ Then display them:
 **Yash Bhoir**
 
 - GitHub: https://github.com/YASH-2305
-- LinkedIn: *(Add your LinkedIn profile link)*
+- LinkedIn: linkedin.com/in/yash-bhoir-88686a28b
 
 ---
 
