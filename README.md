@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Success Prediction using Machine Learning
+# Restaurant Business Analytics & Predictive Modeling
 
 A Machine Learning project that predicts the success of a restaurant based on business-related features. The project follows an end-to-end ML workflow, including data preprocessing, feature engineering, model training, evaluation, and deployment using Streamlit.
 
